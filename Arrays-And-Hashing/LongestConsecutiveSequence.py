@@ -1,5 +1,5 @@
 '''
-Title - 128. Longest Common Sequence
+Title - 128. Longest Consecutive Sequence
 Link - https://leetcode.com/problems/longest-consecutive-sequence
 '''
 
